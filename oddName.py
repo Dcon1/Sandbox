@@ -1,6 +1,7 @@
 """
 Author: Danny Connolly
 """
+
 name = input("Please enter your name")
 while name == "":
     name = input("Please enter your name")
